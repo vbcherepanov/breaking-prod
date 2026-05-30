@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.png" alt="Во все лёгкие" width="640">
+
 # Во все лёгкие
 
 **`🇷🇺 Русский`** · [`🇬🇧 English`](./README.en.md)
@@ -36,11 +38,15 @@
 
 ## Эпизоды
 
-| # | Название | Статус |
-|---|---|---|
-| S01E01 | [Работает на моей машине](./ru/episodes/s01e01-rabotaet-na-moey-mashine.md) | ✅ |
-| S01E02 | [Деплой в пятницу](./ru/episodes/s01e02-deploy-v-pyatnitsu.md) | ✅ |
-| S01E03 | Ретрай с бэкоффом | 📝 |
+Сезон 1 — **10 серий, готов.** Открывается флешфорвардом (крыша, трусы, горящая Grafana) и весь сезон идёт к нему.
+
+| # | Название | # | Название |
+|---|---|---|---|
+| S01E01 | [Работает на моей машине](./ru/episodes/s01e01-rabotaet-na-moey-mashine.md) | S01E06 | [Мёрж-конфликт](./ru/episodes/s01e06-merzh-konflikt.md) |
+| S01E02 | [Деплой в пятницу](./ru/episodes/s01e02-deploy-v-pyatnitsu.md) | S01E07 | [Чехов и console.log](./ru/episodes/s01e07-chehov-i-console-log.md) |
+| S01E03 | [Ретрай с бэкоффом](./ru/episodes/s01e03-retray-s-bekoffom.md) | S01E08 | [Откат](./ru/episodes/s01e08-otkat.md) |
+| S01E04 | [Код-ревью](./ru/episodes/s01e04-kod-revyu.md) | S01E09 | [Форс-пуш](./ru/episodes/s01e09-fors-push.md) |
+| S01E05 | [Стендап](./ru/episodes/s01e05-standap.md) | S01E10 | [Постмортем (финал)](./ru/episodes/s01e10-postmortem.md) |
 
 → [Полный путеводитель по сезонам](./ru/seasons.md) · [Действующие лица](./ru/characters.md)
 

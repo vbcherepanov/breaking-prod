@@ -9,6 +9,9 @@ node_modules/
 *.key
 secrets/
 
+# Локальное / Local
+.claude/
+
 # Артефакты вайба / Vibe artifacts
 .DS_Store
 dist/
