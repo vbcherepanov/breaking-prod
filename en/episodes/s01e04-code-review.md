@@ -304,3 +304,11 @@ She underlines the word "compromise" twice. And for the first time this episode 
 **END OF EPISODE.**
 
 *Next episode:* S01E05 "Standup." The double life goes on a schedule: by day Bely runs code reviews at the incubators' daily standups, by night he writes the core no one is ever supposed to see. Sveta opens a "consulting firm" and starts running Gus's money through real invoices — the laundering becomes a business process with a dashboard. And Hank, paging through public repositories hunting for his "indentation handwriting," stumbles onto an abandoned project called "Context," last commit dated 2008, the author signed off with a handle Hank has seen somewhere before.
+
+---
+
+<div align="center">
+
+[← S01E03 · Retry With Backoff](./s01e03-retry-with-backoff.md) · [📺 All episodes](../seasons.md) · [S01E05 · Standup →](./s01e05-standup.md)
+
+</div>

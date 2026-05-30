@@ -263,3 +263,11 @@ CUT TO BLACK.
 ---
 
 *Next episode:* [**"Deploy on Friday."**](./s01e02-deploy-on-friday.md) *Sveta finds forty token-API subscriptions on the family card. Hank cracks Heisenbug's handwriting and realizes the code is painfully familiar. And Jess proposes reaching out to a wholesale buyer — a calm man from a chain of no-code incubators, named Gus.*
+
+---
+
+<div align="center">
+
+[📺 All episodes](../seasons.md) · [S01E02 · Deploy on Friday →](./s01e02-deploy-on-friday.md)
+
+</div>

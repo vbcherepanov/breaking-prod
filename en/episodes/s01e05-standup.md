@@ -334,3 +334,11 @@ Outside — night. Somewhere across town, Bely hits `git push`. Green pipeline.
 **END OF EPISODE.**
 
 *Next episode:* "Merge Conflict." Out of nowhere, Emil and Craze return — now they have "their own startup" and a suspiciously familiar architecture. Gus settles the competitor question the way he knows how: with a single Slack message he silences their prod ninety seconds before their investor demo. Hank is waiting for the repository author's name. And Mike reminds Bely that everything has a blast radius — even a last name.
+
+---
+
+<div align="center">
+
+[← S01E04 · Code Review](./s01e04-code-review.md) · [📺 All episodes](../seasons.md) · [S01E06 · Merge Conflict →](./s01e06-merge-conflict.md)
+
+</div>

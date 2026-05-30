@@ -363,3 +363,11 @@ Monitor light. Somewhere in the WoofMatch logs, unnoticed, `token` keeps flowing
 ---
 
 *Next episode:* "Chekhov's console.log" — The logger Jess forgot has spent four days leaking every token, key, and session into an open log that someone has finally read. Gus meets with Jess. Hank returns to Flow with an employee list. And in the basement, Emil and Craze — out of a cloud but not out of spite — find something very interesting in WoofMatch's public logs.
+
+---
+
+<div align="center">
+
+[← S01E05 · Standup](./s01e05-standup.md) · [📺 All episodes](../seasons.md) · [S01E07 · Chekhov's console.log →](./s01e07-chekhovs-console-log.md)
+
+</div>

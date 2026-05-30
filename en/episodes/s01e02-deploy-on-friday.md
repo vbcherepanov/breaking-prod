@@ -3,7 +3,7 @@
 ### Season 1, Episode 2 — "Deploy on Friday"
 
 [`🇷🇺 Русский`](../../ru/episodes/s01e02-deploy-v-pyatnitsu.md) · `🇬🇧 English`
-[← Previous episode](./s01e01-works-on-my-machine.md) · [Episode guide →](../seasons.md)
+[← Previous episode](./s01e01-works-on-my-machine.md) · [Next episode →](./s01e03-retry-with-backoff.md)
 
 ---
 
@@ -221,3 +221,11 @@ CUT TO BLACK.
 ---
 
 *Next episode:* **"Retry With Backoff."** *Mike comes out at night for the first time to put out what Bely set on fire, and charges his hourly rate up front. Gus sets a meeting at the "incubator." And Hank matches the indentation in the PRs against code his own brother-in-law scribbled on a napkin twenty years ago.*
+
+---
+
+<div align="center">
+
+[← S01E01 · Works on My Machine](./s01e01-works-on-my-machine.md) · [📺 All episodes](../seasons.md) · [S01E03 · Retry With Backoff →](./s01e03-retry-with-backoff.md)
+
+</div>

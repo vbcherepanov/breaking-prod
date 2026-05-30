@@ -357,3 +357,11 @@ Fade out.
 > **HANK**
 > *(off-screen)*
 > — Say my namespace.
+
+---
+
+<div align="center">
+
+[← S01E06 · Merge Conflict](./s01e06-merge-conflict.md) · [📺 All episodes](../seasons.md) · [S01E08 · Rollback →](./s01e08-rollback.md)
+
+</div>

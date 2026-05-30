@@ -298,3 +298,11 @@ He KNOWS.
 Emil and Craze, scorched by the fork bomb, work out who rolled them back — and prepare their answer through the supply chain. Gus, tired of the "ricin smell," decides Bely has become more expensive than he's useful. Mike warns: "Someone swapped out one of your dependencies, Valentin. And it wasn't them." Hank quietly starts collecting commits. And the poisoned package is already waiting in someone's lockfile, ready for `git push --force`.
 
 **S01E09 — "Force Push."**
+
+---
+
+<div align="center">
+
+[← S01E07 · Chekhov's console.log](./s01e07-chekhovs-console-log.md) · [📺 All episodes](../seasons.md) · [S01E09 · Force Push →](./s01e09-force-push.md)
+
+</div>

@@ -357,3 +357,11 @@ Harvesting secrets... 12,847 / ∞
 > **ХЭНК**
 > *(за кадром)*
 > — Скажи мой неймспейс.
+
+---
+
+<div align="center">
+
+[← S01E06 · Мёрж-конфликт](./s01e06-merzh-konflikt.md) · [📺 Все серии сезона](../seasons.md) · [S01E08 · Откат →](./s01e08-otkat.md)
+
+</div>

@@ -368,3 +368,11 @@ The CAMERA holds on his face. He doesn't look cornered. He looks — for the fir
 ---
 
 *Next episode:* S01E04 — "Code Review." Bely goes for coffee with Gus — alone, without Jess. Gus reveals he knows about "Context," about the year 2008, and about the beer. And when the deal starts to smell like a criminal charge, a man with three phones and a business card reading "I've got a prompt" appears in the coffee-shop doorway — the debut of Saul Goodman. "Don't say anything. Especially not the truth."
+
+---
+
+<div align="center">
+
+[← S01E02 · Deploy on Friday](./s01e02-deploy-on-friday.md) · [📺 All episodes](../seasons.md) · [S01E04 · Code Review →](./s01e04-code-review.md)
+
+</div>

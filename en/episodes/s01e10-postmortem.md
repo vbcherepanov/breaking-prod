@@ -300,3 +300,11 @@ FADE OUT.
 *The cursor keeps blinking.*
 
 *FADE OUT.*
+
+---
+
+<div align="center">
+
+[← S01E09 · Force Push](./s01e09-force-push.md) · [📺 All episodes](../seasons.md)
+
+</div>
