@@ -1,0 +1,39 @@
+name: CI
+
+# «У нас всё зелёное» — но на этот раз по-настоящему.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  postmortem:
+    name: Никто не читает диффы — читает CI
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Проверка перекрёстных ссылок
+        run: bash scripts/check-links.sh
+
+      - name: Паритет языков (каждой серии — две версии)
+        run: |
+          ru=$(find ru/episodes -name 's01e*.md' | wc -l | tr -d ' ')
+          en=$(find en/episodes -name 's01e*.md' | wc -l | tr -d ' ')
+          echo "RU эпизодов: $ru, EN эпизодов: $en"
+          if [ "$ru" != "$en" ]; then
+            echo "❌ Языки разъехались: $ru != $en. Перевод не отгружен."
+            exit 1
+          fi
+          echo "✅ Паритет соблюдён: $ru ↔ $en."
+
+      - name: Деплой в пятницу запрещён
+        run: |
+          if [ "$(date -u +%u)" = "5" ]; then
+            echo "::warning::Сегодня пятница. Мерж разрешён, но мы предупреждали (см. S01E02)."
+          fi
+          echo "✅ Проверка совести пройдена."

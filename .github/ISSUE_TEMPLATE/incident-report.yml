@@ -1,0 +1,42 @@
+name: "🔥 Постмортем (баг-репорт)"
+description: "Нашли нестыковку канона, битую ссылку, опечатку или дыру в сюжете"
+title: "[incident] "
+labels: ["bug", "postmortem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что прочитали диффы. Этого не делает почти никто.
+  - type: input
+    id: where
+    attributes:
+      label: Где горит
+      description: Файл / серия / сцена
+      placeholder: "ru/episodes/s01e07-chehov-i-console-log.md, сцена 3"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Что не так
+      description: Опишите симптом. Стектрейс приветствуется.
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - "P3 — опечатка, никто не заметил"
+        - "P2 — битая ссылка / неверное имя"
+        - "P1 — нестыковка канона между сериями"
+        - "P0 — сгорела вся Grafana, сюжет рассыпался"
+    validations:
+      required: true
+  - type: checkboxes
+    id: parity
+    attributes:
+      label: Языки
+      options:
+        - label: Баг есть в RU-версии
+        - label: Баг есть в EN-версии

@@ -9,6 +9,7 @@
 > Драма о вайб-кодере, который продал ремесло за velocity.
 > Потому что вайб-кодинг — это делать всё налегке, по вайбам, не вникая.
 
+[![CI](https://github.com/vbcherepanov/breaking-prod/actions/workflows/ci.yml/badge.svg)](https://github.com/vbcherepanov/breaking-prod/actions/workflows/ci.yml)
 ![status](https://img.shields.io/badge/status-в_продакшене-red)
 ![build](https://img.shields.io/badge/build-works_on_my_machine-yellow)
 ![coverage](https://img.shields.io/badge/coverage-по_вайбу-blueviolet)
@@ -88,7 +89,13 @@ PR принимаются, только если:
 - тесты зелёные
 - никто, включая автора, не понимает, как оно работает
 
-Подробнее — [CONTRIBUTING.md](./CONTRIBUTING.md).
+Подробнее — [CONTRIBUTING.md](./CONTRIBUTING.md). Ещё: [CHANGELOG](./CHANGELOG.md) · [SECURITY](./SECURITY.md).
+
+Локальная проверка перед PR:
+
+```bash
+bash scripts/check-links.sh
+```
 
 ## Лицензия
 

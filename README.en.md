@@ -9,6 +9,7 @@
 > A drama about a vibe-coder who sold his craft for velocity.
 > Because vibe-coding is about doing it all the easy way, on vibes, without digging in.
 
+[![CI](https://github.com/vbcherepanov/breaking-prod/actions/workflows/ci.yml/badge.svg)](https://github.com/vbcherepanov/breaking-prod/actions/workflows/ci.yml)
 ![status](https://img.shields.io/badge/status-in_production-red)
 ![build](https://img.shields.io/badge/build-works_on_my_machine-yellow)
 ![coverage](https://img.shields.io/badge/coverage-vibes-blueviolet)
@@ -90,7 +91,13 @@ PRs are accepted only if:
 - the tests are green
 - nobody, including the author, understands how it works
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
+See [CONTRIBUTING.md](./CONTRIBUTING.md). Also: [CHANGELOG](./CHANGELOG.md) · [SECURITY](./SECURITY.md).
+
+Check locally before a PR:
+
+```bash
+bash scripts/check-links.sh
+```
 
 ## License
 

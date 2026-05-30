@@ -1,0 +1,39 @@
+name: "🎬 Питч серии / сцены (feature request)"
+description: "Идея новой серии, сцены, шутки или персонажа"
+title: "[pitch] "
+labels: ["enhancement", "writers-room"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Комната сценаристов открыта. Главное — чтобы вайб совпадал.
+  - type: input
+    id: logline
+    attributes:
+      label: Логлайн
+      description: Одна строка — суть серии/сцены
+      placeholder: "Белый учит модель писать тесты, которые она же и проходит"
+    validations:
+      required: true
+  - type: textarea
+    id: beats
+    attributes:
+      label: Биты
+      description: Как разворачивается. Холодный пролог → сцены → клиффхэнгер.
+    validations:
+      required: true
+  - type: dropdown
+    id: season
+    attributes:
+      label: Куда метит
+      options:
+        - "Сезон 1 (вставка/доработка)"
+        - "Сезон 2 — Break prod"
+        - "Сезон 3 — Технический долг"
+        - "Сезон 4 — Блейм"
+        - "Сезон 5 — Грейсфул шатдаун"
+  - type: input
+    id: motif
+    attributes:
+      label: Какой сквозной мотив задействует
+      placeholder: "PagerDuty / деплой в пятницу / «Скажи мой неймспейс» / отступы-отпечаток"

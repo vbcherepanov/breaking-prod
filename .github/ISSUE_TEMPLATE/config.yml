@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💸 Упал прод?
+    url: https://github.com/vbcherepanov/breaking-prod/discussions
+    about: Не паникуй — у Сола есть промпт. Обсудить можно в Discussions.
