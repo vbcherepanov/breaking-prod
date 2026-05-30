@@ -1,0 +1,16 @@
+# Слоп, который мы не коммитим / The slop we don't commit
+node_modules/
+.env
+.env.*
+*.log
+
+# Секреты, которые Чехов всё равно найдёт / Secrets Chekhov will find anyway
+*.pem
+*.key
+secrets/
+
+# Артефакты вайба / Vibe artifacts
+.DS_Store
+dist/
+build/
+.cache/
